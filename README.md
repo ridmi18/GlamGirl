@@ -1,4 +1,7 @@
 ![GlamGirl Logo](images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="GlamGirl Logo" width="500">
+</p>
 
 # GlamGirl - Fashion E-Commerce Website
 
